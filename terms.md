@@ -1,7 +1,7 @@
 # Terms of Use — Easy Invoice Builder
 
-**Effective date: May 17, 2026**
-**Last updated: May 17, 2026**
+**Effective date: May 25, 2026**
+**Last updated: May 25, 2026**
 
 These Terms of Use ("Terms") govern your use of the Easy Invoice Builder mobile application (the "App"), provided by Zenith Technology Enterprises LLC ("we", "us", "our"). By downloading, installing, or using the App, you agree to be bound by these Terms. If you do not agree, do not use the App.
 
@@ -35,7 +35,7 @@ Cancellation prevents the next renewal; you keep Pro access until the end of the
 
 ### Refunds
 
-All refund requests are handled by the app store you purchased through. We have no ability to issue refunds directly. Contact Apple, Google, or Amazon support for refund inquiries.
+All refund requests are handled by the app store you purchased through. We only have the ability to issue refunds directly on Google. Contact Apple or Amazon support for other refund inquiries.
 
 ### Lifetime purchase
 
@@ -98,4 +98,4 @@ Questions about these Terms? Contact us at:
 
 ---
 
-*Zenith Technology Enterprises LLC, New York*
+*Zenith Technology Enterprises LLC*
