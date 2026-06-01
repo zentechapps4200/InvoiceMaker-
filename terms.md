@@ -1,7 +1,7 @@
 # Terms of Use — Easy Invoice Builder
 
-**Effective date: May 31, 2026**
-**Last updated: May 31, 2026**
+**Effective date: June 1, 2026**
+**Last updated: June 1, 2026**
 
 These Terms of Use ("Terms") govern your use of the Easy Invoice Builder mobile application (the "App"), provided by Zenith Technology Enterprises LLC ("we", "us", "our"). By downloading, installing, or using the App, you agree to be bound by these Terms. If you do not agree, do not use the App.
 
