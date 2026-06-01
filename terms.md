@@ -1,13 +1,13 @@
 # Terms of Use — Easy Invoice Builder
 
-**Effective date: May 25, 2026**
-**Last updated: May 25, 2026**
+**Effective date: May 31, 2026**
+**Last updated: May 31, 2026**
 
 These Terms of Use ("Terms") govern your use of the Easy Invoice Builder mobile application (the "App"), provided by Zenith Technology Enterprises LLC ("we", "us", "our"). By downloading, installing, or using the App, you agree to be bound by these Terms. If you do not agree, do not use the App.
 
 ## 1. License
 
-We grant you a personal, non-exclusive, non-transferable, revocable license to use the App for your personal or business invoicing needs on any device you own or control, subject to these Terms and the rules of the app store from which you obtained the App.
+We grant you a personal, non-exclusive, non-transferable, revocable license to use the App for your personal or business invoicing needs on any device you own or control, subject to these Terms and the rules of the app store from which you obtained the App. 
 
 ## 2. Subscriptions, free trial, and one-time purchases
 
@@ -43,7 +43,7 @@ The lifetime purchase is a one-time, non-recurring transaction. It grants Pro ac
 
 ## 3. Your content
 
-Any invoices, customer details, company information, and other data you create or enter into the App ("Your Content") remains your property. We do not access, transmit, or use Your Content. Your Content is stored locally on your device.
+Any invoices, customer details, company information, services delivered, prices and other data you create or enter into the App ("Your Content") remains your property. We do not access, transmit, or use Your Content. Your Content is stored locally on your device.
 
 You are solely responsible for the accuracy, legality, and appropriateness of Your Content, including any data you collect about your customers.
 
