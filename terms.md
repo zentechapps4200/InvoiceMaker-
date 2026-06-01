@@ -13,9 +13,11 @@ We grant you a personal, non-exclusive, non-transferable, revocable license to u
 
 The App offers a free tier and a paid "Pro" tier with the following options:
 
-- **Monthly subscription** — auto-renewing every 1 month.
+- **Monthly subscription** — auto-renewing every 1 month. 
 - **Annual subscription** — auto-renewing every 12 months.
-- **Lifetime** — a single one-time purchase that grants Pro access for the lifetime of the App.
+- **Lifetime** — a single one-time purchase 
+
+Purchasing through any of these options provides access to all current Pro features of the app. 
 
 Prices are displayed in your local currency at purchase time and are set in each app store dashboard. Your subscription will automatically renew at the end of each billing period at the then-current price unless you cancel at least 24 hours before the period ends.
 
@@ -40,6 +42,8 @@ All refund requests are handled by the app store you purchased through. We only 
 ### Lifetime purchase
 
 The lifetime purchase is a one-time, non-recurring transaction. It grants Pro access for the lifetime of the App across devices signed into the same app-store account. We make no guarantee about how long the App will remain available; "lifetime" refers to the lifetime of the App's availability in the app stores.
+
+Your lifetime purchase includes all Pro features available today, and we aim to include future features as well. However, we cannot guarantee this, particularly as some future features may rely on ongoing costs we have to pay — for example AI features or other third-party services. These features may instead be offered as a separate add-on or subscription to cover those running costs. 
 
 ## 3. Your content
 
