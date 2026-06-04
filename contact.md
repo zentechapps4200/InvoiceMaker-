@@ -13,7 +13,7 @@ Have a question or need help with Easy Invoice Builder? Send us an email and we'
 If you reinstall the app or switch devices, tap the restore purchases button in the app's settings to recover your purchase.
 
 **How do I export an invoice?**  
-Navigate to the "Outstanding" screen, tap the three vertical lines on the right side of the invoice file, and then select sone of the share options
+Navigate to the "Outstanding" screen, tap the three vertical dots on the right side of the invoice file, and then select one of the share options.
 
 **How do I edit my business information?**  
 Go to Settings within the app to update your business name, address, logo, and contact details which appear on all your invoices.
