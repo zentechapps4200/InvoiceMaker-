@@ -1,9 +1,5 @@
----
-layout: default
-title: Contact
----
 
-# Easy Invoice Builder — Support
+# Support — Easy Invoice Builder
 
 Have a question or need help with Easy Invoice Builder? Send us an email and we'll get back to you as soon as possible.
 
