@@ -10,7 +10,7 @@ Here's what we're currently planning for upcoming releases.
 
 ---
 
-## Coming Soon
+## What We're Working On 
 
 **Full Accessibility**  
 Making Easy Invoice Builder work great for everyone. We're adding full VoiceOver support so every screen and action can be used by sound alone, clearer color contrast and status indicators that don't rely on color, Voice Control, Reduced Motion support, and larger, easier-to-tap controls. We're building toward complete coverage of Apple's accessibility standards — in both English and Spanish. Have an accessibility need we haven't covered? Let us know and we'll prioritize it.
@@ -21,6 +21,9 @@ Spanish output as well, rather than just input.
 **Invoice Numbering by Customer**  
 Assign and track invoice numbers on a per-customer basis for better organization 
 and record keeping.
+
+**Business Day Payment Terms**  
+Set due dates in working days instead of calendar days — so Net 30 always means 30 business days, weekends excluded.
 
 **Additional Sorting Options for Completed Invoices**  
 More ways to sort and filter your completed invoices so you can find what you need faster.
