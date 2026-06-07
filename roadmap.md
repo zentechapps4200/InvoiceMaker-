@@ -23,7 +23,7 @@ Assign and track invoice numbers on a per-customer basis for better organization
 and record keeping.
 
 **Business Day Payment Terms**  
-Set due dates in working days instead of calendar days — so Net 30 always means 30 business days, weekends excluded.
+Set due dates in business days instead of calendar days — so Net 30 always means 30 business days, weekends excluded.
 
 **Additional Sorting Options for Completed Invoices**  
 More ways to sort and filter your completed invoices so you can find what you need faster.
