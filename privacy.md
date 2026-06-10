@@ -3,7 +3,7 @@
 **Effective date: June 1, 2026**
 **Last updated: June 1, 2026**
 
-This Privacy Policy explains how Zenith Technology Enterprises ("we", "us", "our") handles information in connection with the Easy Invoice Builder mobile application (the "App"). By using the App, you agree to the practices described here.
+This Privacy Policy explains how Zenith Technology Enterprises LLC ("we", "us", "our") handles information in connection with the Easy Invoice Builder mobile application (the "App"). By using the App, you agree to the practices described here.
 
 ## TL;DR
 
