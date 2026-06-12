@@ -23,7 +23,7 @@ Prices are displayed in your local currency at purchase time and are set in each
 
 ### Free trial
 
-New subscribers are eligible for a **7-day free trial** of either monthly or annual Pro features. If you do not cancel before the trial ends, your subscription will begin and your payment method (managed by the app store) will be charged at the price of the subscription you selected. The free trial is offered once per app store account.
+New subscribers are eligible for a **7-day free trial** of either monthly or annual Pro features; only a monthly free trial is available on Google and Amazon. If you do not cancel before the trial ends, your subscription will begin and your payment method (managed by the app store) will be charged at the price of the subscription you selected. The free trial is offered once per app store account.
 
 ### How to cancel
 
