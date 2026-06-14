@@ -16,4 +16,4 @@ If you reinstall the app or switch devices, tap the restore purchases button in 
 Navigate to the "Outstanding" screen, tap the three vertical dots on the right side of the invoice file, and then select one of the share options.
 
 **How do I edit my business information?**  
-Go to Settings within the app to update your business name, address, logo, and contact details which appear on all your invoices.
+Go to "Manage Profiles->Your Businesses" within the app to update your business name, address, logo, and contact details which appear on all your invoices.
