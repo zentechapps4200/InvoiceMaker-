@@ -3,9 +3,9 @@ layout: default
 title: Roadmap
 ---
 
-# Easy Invoice Builder — Roadmap
+# Invoice Maker - Fast & Easy: Roadmap
 
-We're constantly working to make Easy Invoice Builder better for small businesses. 
+We're constantly working to make Invoice Maker - Fast & Easy better for our customers. 
 Here's what we're currently planning for upcoming releases.
 
 ---

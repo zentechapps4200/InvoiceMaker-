@@ -1,7 +1,7 @@
 
-# Support — Easy Invoice Builder
+# Support — Invoice Maker - Fast & Easy
 
-Have a question or need help with Easy Invoice Builder? Send us an email and we'll get back to you as soon as possible.
+Have a question or need help with Invoice Maker - Fast & Easy? Send us an email and we'll get back to you as soon as possible.
 
 **[zentechdeveloper@zenithtechnologyenterprises.com](mailto:zentechdeveloper@zenithtechnologyenterprises.com)**
 

@@ -1,13 +1,13 @@
-# Privacy Policy — Easy Invoice Builder
+# Privacy Policy: Invoice Maker - Fast & Easy
 
 **Effective date: June 1, 2026**
-**Last updated: June 1, 2026**
+**Last updated: July 14, 2026**
 
-This Privacy Policy explains how Zenith Technology Enterprises LLC ("we", "us", "our") handles information in connection with the Easy Invoice Builder mobile application (the "App"). By using the App, you agree to the practices described here.
+This Privacy Policy explains how Zenith Technology Enterprises LLC ("we", "us", "our") handles information in connection with the Invoice Maker - Fast & Easy mobile application (the "App"). By using the App, you agree to the practices described here.
 
 ## TL;DR
 
-Easy Invoice Builder is a **local-only** app. We do not operate a backend, we do not host your data on our servers, and we do not collect analytics about how you use the App. Everything you create — invoices, customer profiles, payment details, company information — stays on your device. The only data that leaves your device is what you yourself choose to share through your operating system's share sheet (e.g. emailing an invoice PDF to a client).
+Invoice Maker - Fast & Easy is a **local-only** app. We do not operate a backend, we do not host your data on our servers, and we do not collect analytics about how you use the App. Everything you create — invoices, customer profiles, payment details, company information — stays on your device. The only data that leaves your device is what you yourself choose to share through your operating system's share sheet (e.g. emailing an invoice PDF to a client).
 
 ## 1. Information we collect
 
