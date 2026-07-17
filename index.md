@@ -1,4 +1,4 @@
-# Easy Invoice Builder
+# Invoice Maker 
 
 - Privacy Policy: https://invoice.zenithtechnologyenterprises.com/privacy
 - Terms Of Use: https://invoice.zenithtechnologyenterprises.com/terms
